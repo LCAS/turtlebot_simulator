@@ -2,8 +2,8 @@
 Changelog for package turtlebot_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.2.3 (2017-06-26)
+------------------
 * fixed maintainers
 * prepared for name spaces
 * fixing indention

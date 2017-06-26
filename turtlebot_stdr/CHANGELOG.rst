@@ -2,8 +2,8 @@
 Changelog for package turtlebot_stdr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.2.3 (2017-06-26)
+------------------
 * fixed maintainers
 * Contributors: Marc Hanheide
 
