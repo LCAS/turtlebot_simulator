@@ -2,6 +2,11 @@
 Changelog for package turtlebot_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fixed maintainers
+* Contributors: Marc Hanheide
+
 2.2.2 (2015-09-16)
 ------------------
 

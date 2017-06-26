@@ -2,6 +2,11 @@
 Changelog for package turtlebot_stdr
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fixed maintainers
+* Contributors: Marc Hanheide
+
 2.2.2 (2015-09-16)
 ------------------
 

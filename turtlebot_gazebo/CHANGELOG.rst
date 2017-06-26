@@ -2,6 +2,16 @@
 Changelog for package turtlebot_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fixed maintainers
+* prepared for name spaces
+* fixing indention
+* Update amcl_demo.launch
+* remove backup files
+* Fix changing amcl.launch.xml and gmapping.launch.xml locations under turtlebot_navigation
+* Contributors: Marc Hanheide, Mohamed Al Zaiady, Mohamed Elzaiady, Tully Foote, mzaiady
+
 2.2.2 (2015-09-16)
 ------------------
 
